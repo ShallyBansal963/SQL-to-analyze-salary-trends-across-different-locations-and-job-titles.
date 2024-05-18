@@ -1,0 +1,1 @@
+# SQL-to-analyze-salary-trends-across-different-locations-and-job-titles.
